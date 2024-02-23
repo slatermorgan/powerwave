@@ -1,0 +1,265 @@
+{
+    "powerMeters": [
+        {
+            "building": "Treatment Plant A",
+            "customer": "Aquaflow",
+            "serialId": "1111-1111-1111",
+            "dailyConsumption": [
+                {
+                    "amountConsumed": 20,
+                    "date": "2024-02-23"
+                },
+                {
+                    "amountConsumed": 40,
+                    "date": "2024-02-24"
+                },
+                {
+                    "amountConsumed": 60,
+                    "date": "2024-02-25"
+                },
+                {
+                    "amountConsumed": 80,
+                    "date": "2024-02-26"
+                },
+                {
+                    "amountConsumed": 100,
+                    "date": "2024-02-27"
+                },
+                {
+                    "amountConsumed": 120,
+                    "date": "2024-02-28"
+                },
+                {
+                    "amountConsumed": 140,
+                    "date": "2024-02-29"
+                },
+                {
+                    "amountConsumed": 160,
+                    "date": "2024-03-01"
+                },
+                {
+                    "amountConsumed": 180,
+                    "date": "2024-03-02"
+                },
+                {
+                    "amountConsumed": 200,
+                    "date": "2024-03-03"
+                },
+                {
+                    "amountConsumed": 220,
+                    "date": "2024-03-04"
+                },
+                {
+                    "amountConsumed": 240,
+                    "date": "2024-03-05"
+                },
+                {
+                    "amountConsumed": 260,
+                    "date": "2024-03-06"
+                },
+                {
+                    "amountConsumed": 280,
+                    "date": "2024-03-07"
+                },
+                {
+                    "amountConsumed": 300,
+                    "date": "2024-03-08"
+                },
+                {
+                    "amountConsumed": 320,
+                    "date": "2024-03-09"
+                },
+                {
+                    "amountConsumed": 340,
+                    "date": "2024-03-10"
+                },
+                {
+                    "amountConsumed": 360,
+                    "date": "2024-03-11"
+                },
+                {
+                    "amountConsumed": 380,
+                    "date": "2024-03-12"
+                },
+                {
+                    "amountConsumed": 400,
+                    "date": "2024-03-13"
+                }
+            ]
+        },
+        {
+            "building": "Treatment Plant B",
+            "customer": "Aquaflow",
+            "serialId": "1111-1111-2222",
+            "dailyConsumption": [
+                {
+                    "amountConsumed": 30,
+                    "date": "2024-02-23"
+                },
+                {
+                    "amountConsumed": 60,
+                    "date": "2024-02-24"
+                },
+                {
+                    "amountConsumed": 90,
+                    "date": "2024-02-25"
+                },
+                {
+                    "amountConsumed": 120,
+                    "date": "2024-02-26"
+                },
+                {
+                    "amountConsumed": 150,
+                    "date": "2024-02-27"
+                },
+                {
+                    "amountConsumed": 180,
+                    "date": "2024-02-28"
+                },
+                {
+                    "amountConsumed": 210,
+                    "date": "2024-02-29"
+                },
+                {
+                    "amountConsumed": 240,
+                    "date": "2024-03-01"
+                },
+                {
+                    "amountConsumed": 270,
+                    "date": "2024-03-02"
+                },
+                {
+                    "amountConsumed": 300,
+                    "date": "2024-03-03"
+                },
+                {
+                    "amountConsumed": 330,
+                    "date": "2024-03-04"
+                },
+                {
+                    "amountConsumed": 360,
+                    "date": "2024-03-05"
+                },
+                {
+                    "amountConsumed": 390,
+                    "date": "2024-03-06"
+                },
+                {
+                    "amountConsumed": 420,
+                    "date": "2024-03-07"
+                },
+                {
+                    "amountConsumed": 450,
+                    "date": "2024-03-08"
+                },
+                {
+                    "amountConsumed": 480,
+                    "date": "2024-03-09"
+                },
+                {
+                    "amountConsumed": 510,
+                    "date": "2024-03-10"
+                },
+                {
+                    "amountConsumed": 540,
+                    "date": "2024-03-11"
+                },
+                {
+                    "amountConsumed": 570,
+                    "date": "2024-03-12"
+                },
+                {
+                    "amountConsumed": 600,
+                    "date": "2024-03-13"
+                }
+            ]
+        },
+        {
+            "building": "Student Halls",
+            "customer": "Albers Facilities Management",
+            "serialId": "1111-1111-3333",
+            "dailyConsumption": [
+                {
+                    "amountConsumed": 40,
+                    "date": "2024-02-23"
+                },
+                {
+                    "amountConsumed": 80,
+                    "date": "2024-02-24"
+                },
+                {
+                    "amountConsumed": 120,
+                    "date": "2024-02-25"
+                },
+                {
+                    "amountConsumed": 160,
+                    "date": "2024-02-26"
+                },
+                {
+                    "amountConsumed": 200,
+                    "date": "2024-02-27"
+                },
+                {
+                    "amountConsumed": 240,
+                    "date": "2024-02-28"
+                },
+                {
+                    "amountConsumed": 280,
+                    "date": "2024-02-29"
+                },
+                {
+                    "amountConsumed": 320,
+                    "date": "2024-03-01"
+                },
+                {
+                    "amountConsumed": 360,
+                    "date": "2024-03-02"
+                },
+                {
+                    "amountConsumed": 400,
+                    "date": "2024-03-03"
+                },
+                {
+                    "amountConsumed": 440,
+                    "date": "2024-03-04"
+                },
+                {
+                    "amountConsumed": 480,
+                    "date": "2024-03-05"
+                },
+                {
+                    "amountConsumed": 520,
+                    "date": "2024-03-06"
+                },
+                {
+                    "amountConsumed": 560,
+                    "date": "2024-03-07"
+                },
+                {
+                    "amountConsumed": 600,
+                    "date": "2024-03-08"
+                },
+                {
+                    "amountConsumed": 640,
+                    "date": "2024-03-09"
+                },
+                {
+                    "amountConsumed": 680,
+                    "date": "2024-03-10"
+                },
+                {
+                    "amountConsumed": 720,
+                    "date": "2024-03-11"
+                },
+                {
+                    "amountConsumed": 760,
+                    "date": "2024-03-12"
+                },
+                {
+                    "amountConsumed": 800,
+                    "date": "2024-03-13"
+                }
+            ]
+        }
+    ]
+}
