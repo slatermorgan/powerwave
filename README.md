@@ -30,12 +30,12 @@ $ go run main.go
 
 ## Example curls
 
-1. Boost energy levels with a frequency of 500Hz:
+1. Get a list of devices for a given customer name:
 ```
 $ curl --location --globoff 'http://localhost:8080/customer/{customerName}/meters'
 ```
 
-2. Increase productivity with a frequency of 1000Hz:
+2. Get a device total power consumer at a given time:
 ```
-$ curl --location 'http://localhost:8080/device/1111-1111-1111?date=2024-02-28'
+$ curl --location 'http://localhost:8080/device/{deviceId}?date=2024-02-28'
 ```
