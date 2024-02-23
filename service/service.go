@@ -65,7 +65,10 @@ func New(fileName string) *FakeService {
 		panic(err)
 	}
 
-	result := &FakeService{}
+	result := &FakeService{
+		// assign database to memory
+		database: &database{},
+	}
 
 	err = json.Unmarshal(fileContent, result.database)
 	if err != nil {

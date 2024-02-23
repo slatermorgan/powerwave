@@ -1,14 +1,14 @@
 package model
 
-// Building represents a building where power meters are installed.
+// Building represents a building output model
 type Building struct {
-	Name     string
-	Customer string
-	Meters   []Reading
+	Name     string    `json:"name"`
+	Customer string    `json:"customer"`
+	Meters   []Reading `json:"meters"`
 }
 
-// Reading represents a building power meter.
+// Reading represents a building power meter output model
 type Reading struct {
-	SerialID      string
-	TotalConsumed int //since device began
+	SerialID      string `json:"serialID"`
+	TotalConsumed int    `json:"totalConsumed,omitempty"`
 }

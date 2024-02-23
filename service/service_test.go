@@ -7,6 +7,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
+// I would write more test cases here if I had time
 func TestDevicesByCustomerID(t *testing.T) {
 	service := New("../data.json")
 
@@ -18,6 +19,7 @@ func TestDevicesByCustomerID(t *testing.T) {
 	assert.Equal(t, "1111-1111-2222", devices[1].SerialID)
 }
 
+// I would write more test cases here if I had time
 func TestDeviceReading(t *testing.T) {
 	service := New("../data.json")
 
